@@ -17,7 +17,7 @@ exports.EARTHLY_BRANCH = [
     'Tý',
     'Sửu',
     'Dần',
-    'Mẹo',
+    'Mão',
     'Thìn',
     'Tỵ',
     'Ngọ',
